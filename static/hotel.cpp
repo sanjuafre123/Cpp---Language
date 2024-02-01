@@ -54,7 +54,7 @@ class HOTEL
 	}
 };
 
-	string HOTEL::hotel_name="SANJU";
+	string HOTEL::hotel_name="SANJU AFRE";
 	string HOTEL::hotel_establish_year="2024";
 
 main()
