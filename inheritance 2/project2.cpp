@@ -42,7 +42,9 @@ class rocy : public pass1,public pass2,public pass3,public pass4
 	public :
 		void RR()
 		{	
-			cout << pass1::p1 + pass2::p1 + pass3::p1 + pass4::p1 <<endl;
+			int s;
+			s = pass1::p1 + pass2::p1 + pass3::p1 + pass4::p1;
+			cout << "total :" << d <<endl;
 		}
 };
 int main()
