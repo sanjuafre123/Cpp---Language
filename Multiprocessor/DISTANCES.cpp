@@ -26,7 +26,7 @@ class DISTANCES
 			void get()
 			{
 				cout << "KILOMETER IS : " << Km <<endl;
-				cout << "METER IS : " << Km <<endl;
+				cout << "METER IS : " << Meter <<endl;
 
 			}
 			DISTANCES operator +(DISTANCES &m2)
